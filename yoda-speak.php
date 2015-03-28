@@ -6,7 +6,7 @@
  * Author:            	Marty Thornley
  */
 
-define( 'MASHAPE_API_KEY', 			'IK4TySWv7tmshnQrQ16Pi1whoCusp17HYChjsnFTWfSe0SnAIW' );
+define( 'MASHAPE_API_KEY', 			'YOUR_MASHAPE_API_KEY_HERE' );
 define( 'YODA_SPEAK_API_ENDPOINT',  'https://yoda.p.mashape.com/yoda' );
 
 define( 'YODA_CACHE', 				'transients' );
