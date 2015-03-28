@@ -39,8 +39,8 @@ function translate_to_yoda( $text ) {
 
 		$args = array(
 			'headers' => array(
-				'Content-Type'=> 'application/json',
-				'X-Mashape-Authorization' => MASHAPE_API_KEY,
+				'X-Mashape-Authorization' 	=> MASHAPE_API_KEY,
+				'Accept'					=> 'text/plain',
 			)
 		);
 
